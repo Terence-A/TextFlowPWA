@@ -6,6 +6,7 @@ Table of Contents
 
 - [Description](#description)
 - [Installation](#installation)
+- [ScreenShot](#screenshot)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
@@ -30,6 +31,11 @@ To run the PWA Text Editor on your local machine, follow these steps:
 4. Start the development server: npm run start
 
 5. Open your web browser and access the application at http://localhost:3000.
+
+## ScreenShot
+
+![image](https://github.com/Terence-A/TextFlowPWA/assets/90189211/58531ec6-1676-4092-864c-36057117c94a)
+
 
 ## Usage
 
